@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    height: 1500px;
+    width: 1000px;
+    background-color: bisque;
+}
+.Nino{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    border-style: double;
+    border-radius: 90px;
+    margin: 10px;
+}
+.Luna{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(133, 78, 6);
+    border-style: double;
+    border-color: aliceblue;
+    border-radius: 90px;
+    margin: 10px;
+}
+.Pipoca{
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    border-style: double;
+    border-color: brown;
+    border-radius: 90px;
+    margin: 10px;
+}
